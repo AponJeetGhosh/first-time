@@ -11,3 +11,4 @@ I am interested in learning about Sanatan dharma in the future.
 
 >>>>>>> f44af3d44553e97933cbcb120391d9029c7df21f
 Logo alignment centered.
+Text align centered.
