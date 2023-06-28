@@ -4,11 +4,7 @@ I completed my SSC in 2021
 I am now studying in Intermediate 
 I am interested in learning holy Vedas and Sanatan dharma in future
 I am learning Git and GitHub 
-<<<<<<< HEAD
 Let's do it again!
-=======
 I am interested in learning about Sanatan dharma in the future.
-
 >>>>>>> f44af3d44553e97933cbcb120391d9029c7df21f
-Logo alignment centered.
-Text align centered.
+New line is added in feature branch.
